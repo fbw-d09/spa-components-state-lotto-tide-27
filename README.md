@@ -14,6 +14,7 @@ In addition one number between 1 and 10 should be generated and displayed. Every
 
 ![Example with lucky numbers displayed](example-lucky-numbers.png)
 
+![Bildschirmfoto vom 2023-06-22 19-10-48](https://github.com/fbw-d09/spa-components-state-lotto-tide-27/assets/115164008/9af92269-e6e7-48bb-9e09-5d506b266e42)
 On clicking on the "Reset" button all numbers should be removed.
 
 ![Example with no numbers displayed](example-no-numbers.png)
